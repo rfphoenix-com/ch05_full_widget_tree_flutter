@@ -1,10 +1,11 @@
-# starter_project
+# Full Widget Tree Example
 
-A new Flutter project.
+This project demonstrates full widget tree. The motivation is to show how deep widget tree
+is hard to maintain in the long run. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an extension of the starter project with template layout. 
 
 A few resources to get you started if this is your first Flutter project:
 
